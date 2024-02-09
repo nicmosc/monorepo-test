@@ -1,6 +1,0 @@
-[submodule "apps/project-b"]
-	path = apps/project-b
-	url = git@github.com:nicmosc/project-b.git
-[submodule "apps/project-a"]
-	path = apps/project-a
-	url = git@github.com:nicmosc/project-a.git
